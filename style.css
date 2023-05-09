@@ -1,7 +1,13 @@
+.fondo-body {
+    background-color: #b4554f;
 
-main h1 {
-    color: white
+
 }
-main p{
-    color: white;
+
+
+.btn-dark {
+    color: #121112;
+    background-color: rosybrown;
+    border-color: rosybrown;
+    
 }
