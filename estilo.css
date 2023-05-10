@@ -1,0 +1,25 @@
+main {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-header {
+   background-image: url(photo.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 93vh;
+    color: #942d2d;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+

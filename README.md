@@ -1,2 +1,5 @@
 # primerParcial_portafolioPersonal
-Este trabajo se trata de crear un portafolio personal guiandonos con todo lo que vimos en clases.
+En el siguiente portafolio se puede observar:
+- Un inicio.
+- Una segunda pagina que se trata sobre mi.
+- Y los estilos e imagenes.
